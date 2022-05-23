@@ -1,0 +1,6 @@
+tensorflow
+termcolor
+numpy
+Flask
+pandas
+pickle-mixin
